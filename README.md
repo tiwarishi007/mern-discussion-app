@@ -45,7 +45,7 @@ mern-discussion-app/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/mern-discussion-app.git
+git clone https://github.com/tiwarishi007/mern-discussion-app.git
 cd mern-discussion-app
 ```
 
